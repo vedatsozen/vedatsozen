@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vedatsozen
 - 👀 I’m interested in internet technologies ...
 - 🌱 I’m currently learning javascript ...
-- 📫 How to reach me ... twitter.com/vedatsozen behance.net/vedatsozen codepen.io/vedatsozen
+- 📫 How to reach me ... codepen.io/vedatsozen behance.net/vedatsozen twitter.com/vedatsozen
 - I am open to job offers. 
 
 <!---
