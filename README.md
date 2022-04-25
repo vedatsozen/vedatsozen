@@ -1,4 +1,6 @@
-### Hi there 👋 My Name is Vedat Sözen
+Hi there 👋 
+
+My Name is Vedat Sözen
 
 <!--
 **vedatsozen/vedatsozen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
