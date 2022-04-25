@@ -1,4 +1,4 @@
-### Hi there 👋 
+### Welcome to my github profile 👋 
 
 <strong>My Name is Vedat Sözen</strong>
 
