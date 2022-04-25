@@ -1,12 +1,6 @@
 ### Hi there 👋 
 
-My Name is Vedat Sözen
-
-<!--
-**vedatsozen/vedatsozen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
+<strong>My Name is Vedat Sözen</strong>
 
 - I’m a Self Taught Front End Developer.
 - I’m currently learning Javascript ...
@@ -17,5 +11,5 @@ Here are some ideas to get you started:
 
 MY PORTFOLIO 
 
-Codepen : www.codepen.io/vedatsozen
+Codepen : www.codepen.io/vedatsozen <br>
 Behance : www.behance.net/vedatsozen
