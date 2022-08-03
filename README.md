@@ -11,5 +11,6 @@
 
 MY PORTFOLIO 
 
+My portfolio web site : vedatsozen.netlify.app
 Codepen : www.codepen.io/vedatsozen <br>
 Behance : www.behance.net/vedatsozen
