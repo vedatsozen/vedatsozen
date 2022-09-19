@@ -2,9 +2,9 @@
 
 <strong>My Name is Vedat Sözen</strong>
 
-- I’m a Self Taught Front End Developer.
-- I’m currently learning React Js ...
+- I’m a Front End Developer.
 - I am good at HTML,CSS and Javascript ..
+- I am around Next Js, Typescript, Bootstrap, Tailwind Css etc ..
 - Ask me about anything about front end development.
 - You can reach me: vedatsozen@gmail.com
 - I am open to remote job offers.
